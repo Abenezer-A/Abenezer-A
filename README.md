@@ -23,8 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cepheus-king&show_icons=true&locale=en" alt="cepheus-king" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cepheus-king&show_icons=true&locale=en&layout=compact" alt="cepheus-king" /></p>
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cepheus-king&" alt="cepheus-king" /></p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cepheus-king&show_icons=true&locale=en&layout=compact" alt="cepheus-king" /></p>
