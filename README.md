@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cepheus-king&label=Profile%20views&color=0e75b6&style=flat" alt="Abenezer-A" /> </p>
 
 
-- 🌱 I’m currently learning at **Holberton School(Alx SE Program).**
+- 🌱 I’m currently learning at **Udacity.**
 
 - 👯 I’m looking to collaborate on **projects.**
 
