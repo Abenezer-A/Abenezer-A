@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abenezer Alemayehu.</h1>
 <h3 align="center">A software developer from Ethiopia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cepheus-king&label=Profile%20views&color=0e75b6&style=flat" alt="Abenezer-A" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abenezer-a&label=Profile%20views&color=0e75b6&style=flat" alt="Abenezer-A" /> </p>
 
 
 - 🌱 I’m currently learning at **Udacity.**
