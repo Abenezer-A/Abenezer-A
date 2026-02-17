@@ -30,7 +30,7 @@
 
 ## 🧠 About Me
 
-Software Enginner
+Software Enginner: 
 **AI/ML engineering**, **Full-Stack Development**, and **Cybersecurity Research**.
 
 **Core Focus Areas**
@@ -38,12 +38,6 @@ Software Enginner
 - Secure Software Development  
 - Penetration Testing & Reverse Engineering  
 - Computer Vision & Automation  
-
-**Training & Background**
-- AI/ML Engineering training through AWS & Udacity  
-- Hands-on experience building production-ready tools and research projects  
-
-I enjoy turning complex problems into practical, efficient solutions.
 
 ---
 
@@ -53,7 +47,7 @@ I enjoy turning complex problems into practical, efficient solutions.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,mysql,git,opencv,pytorch,tensorflow,qt,blender,c&theme=dark"/>
 </p>
----
+
 
 <!-- ===================== DASHBOARD ===================== -->
 
