@@ -1,7 +1,7 @@
-<!-- █████████████ HEADER █████████████ -->
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ABENEZER%20ALEMAYEHU&fontSize=40&fontColor=00E5FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f1a,50:121a2b,100:0b0f1a&text=ABENEZER%20ALEMAYEHU&fontSize=42&fontColor=9EE7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -9,67 +9,73 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abenezer-A&label=PROFILE+VIEWS&color=00e5ff&style=flat-square"/>
+  <a href="https://www.linkedin.com/in/abenezeralemayehu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:abenezeralemayehu1819@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://medium.com/@abenezeralemayehu1819">
+    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abenezer-A&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square"/>
 </p>
 
 ---
 
-<!-- █████████████ ABOUT █████████████ -->
+<!-- ===================== ABOUT ===================== -->
 
-## About
-
-Building intelligent systems with precision engineering.  
-Focused on AI, backend systems, and real-world impact.
-
-• Addis Ababa, Ethiopia  
-• Currently advancing skills through Udacity  
-• Open for serious collaboration  
+## 🧠 About
+I build intelligent systems with clean architecture and real-world impact.  
+Based in Addis Ababa, Ethiopia • Learning advanced software engineering at Udacity • Open to collaboration.
 
 ---
 
-<!-- █████████████ TECH █████████████ -->
+<!-- ===================== TECH ===================== -->
 
-## Tech Stack
-
+## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,mysql,git,pytorch,tensorflow,opencv,qt&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,mysql,git,opencv,pytorch,tensorflow,qt,blender,c&theme=dark"/>
 </p>
 
 ---
 
-<!-- █████████████ CORE STATS █████████████ -->
+<!-- ===================== DASHBOARD ===================== -->
 
-## GitHub Performance
+## 📊 GitHub Dashboard
 
+<table align="center">
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abenezer-A&show_icons=true&theme=transparent&hide_border=true&title_color=9EE7FF&icon_color=9EE7FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-A&layout=compact&theme=transparent&hide_border=true&title_color=9EE7FF&text_color=c9d1d9"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=Abenezer-A&theme=transparent&hide_border=true&ring=9EE7FF&fire=9EE7FF&currStreakLabel=9EE7FF"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ===================== ACTIVITY ===================== -->
+
+## ⚡ Contribution Activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abenezer-A&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&ring_color=00e5ff&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-A&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abenezer-A&bg_color=00000000&color=9EE7FF&line=9EE7FF&point=ffffff&hide_border=true"/>
 </p>
 
 ---
 
-<!-- █████████████ STREAK █████████████ -->
-
-## Consistency
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abenezer-A&theme=transparent&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
-</p>
-
----
-
-<!-- █████████████ ACTIVITY █████████████ -->
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abenezer-A&bg_color=00000000&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true"/>
-</p>
-
----
-
-<!-- █████████████ FOOTER █████████████ -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00e5ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0b0f1a,100:9EE7FF"/>
 </p>
