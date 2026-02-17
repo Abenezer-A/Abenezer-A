@@ -29,8 +29,9 @@
 <!-- ===================== ABOUT ===================== -->
 
 ## 🧠 About
-I build intelligent systems with clean architecture and real-world impact.  
-Based in Addis Ababa, Ethiopia • Learning advanced software engineering at Udacity • Open to collaboration.
+Software Enginnering
+AI/ML Enginner From AWS & Udacity   
+Cyber Security (Pentest, Reverse Enginnering)
 
 ---
 
