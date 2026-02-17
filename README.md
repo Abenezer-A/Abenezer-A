@@ -30,8 +30,8 @@
 
 ## 🧠 About Me
 
-I’m a software engineer focused on building intelligent systems and secure applications.  
-My work combines **AI/ML engineering**, **backend development**, and **cybersecurity research**.
+Software Enginner
+**AI/ML engineering**, **Full-Stack Development**, and **Cybersecurity Research**.
 
 **Core Focus Areas**
 - Artificial Intelligence & Machine Learning  
@@ -53,12 +53,6 @@ I enjoy turning complex problems into practical, efficient solutions.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,mysql,git,opencv,pytorch,tensorflow,qt,blender,c&theme=dark"/>
 </p>
-
-**Languages:** Python, JavaScript, C  
-**AI/ML:** PyTorch, TensorFlow, OpenCV  
-**Systems:** Linux, Git, MySQL  
-**Tools:** Qt, Blender, Node.js  
-
 ---
 
 <!-- ===================== DASHBOARD ===================== -->
