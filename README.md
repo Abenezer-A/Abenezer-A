@@ -48,7 +48,12 @@ Software Enginner:
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,html,css,c,linux,mysql,mongodb,git,docker,kubernetes,ansible,prometheus,aws,opencv,pytorch,tensorflow,sklearn,qt,blender&theme=dark"/>
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ghidra-CE2029?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Binary_Ninja-000000?style=for-the-badge"/>
+</p>
 <!-- ===================== DASHBOARD ===================== -->
 
 ## GitHub Dashboard
