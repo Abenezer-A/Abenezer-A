@@ -45,7 +45,7 @@ Software Enginner:
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,mysql,git,opencv,pytorch,tensorflow,qt,blender,c&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,html,css,c,linux,mysql,mongodb,git,docker,kubernetes,ansible,prometheus,aws,opencv,pytorch,tensorflow,sklearn,qt,blender&theme=dark"/>
 </p>
 
 
