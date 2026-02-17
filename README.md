@@ -49,14 +49,6 @@ Based in Addis Ababa, Ethiopia • Learning advanced software engineering at Uda
 
 <table align="center">
   <tr>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abenezer-A&show_icons=true&theme=transparent&hide_border=true&title_color=9EE7FF&icon_color=9EE7FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-    </td>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-A&layout=compact&theme=transparent&hide_border=true&title_color=9EE7FF&text_color=c9d1d9"/>
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://streak-stats.demolab.com?user=Abenezer-A&theme=transparent&hide_border=true&ring=9EE7FF&fire=9EE7FF&currStreakLabel=9EE7FF"/>
     </td>
