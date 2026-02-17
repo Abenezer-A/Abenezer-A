@@ -28,7 +28,7 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-## 🧠 About Me
+## About Me
 
 Software Enginner: 
 **AI/ML engineering**, **Full-Stack Development**, and **Cybersecurity Research**.
@@ -43,7 +43,7 @@ Software Enginner:
 
 <!-- ===================== TECH ===================== -->
 
-## ⚙️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,mysql,git,opencv,pytorch,tensorflow,qt,blender,c&theme=dark"/>
 </p>
@@ -51,7 +51,7 @@ Software Enginner:
 
 <!-- ===================== DASHBOARD ===================== -->
 
-## 📊 GitHub Dashboard
+## GitHub Dashboard
 
 <table align="center">
   <tr>
